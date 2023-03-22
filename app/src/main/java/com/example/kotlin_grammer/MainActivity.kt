@@ -105,6 +105,7 @@ fun main(){
     println(friendsAge)
     println(friendsAge.map{ it.value })
 
+    ////////////////////////////////////////////////////////////
 }
 
 class MainActivity : AppCompatActivity() {
